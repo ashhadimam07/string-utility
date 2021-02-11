@@ -25,3 +25,10 @@ reverse.addEventListener('click', () => {
 wordcount.addEventListener('click', () => {
     output.value = parseInt(input.value.split(' ').length, 10);
 });
+
+function execCopy() {
+    document.querySelector('#input-string').select();
+    document.execCommand('copy');
+}
+document.getElementById('copy').addEventListener('click', execCopy);
+execCopy();
