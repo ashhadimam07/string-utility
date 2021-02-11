@@ -21,7 +21,7 @@ nav {
   display: flex;
   height: 80px;
   width: 100%;
-  background-color: #5c374c;
+  background-color: #6e3a27;
   align-items: center;
   justify-content: center;
   padding: 0 50px 0 50px;
@@ -101,7 +101,7 @@ main {
   padding-top: 10px;
   padding-bottom: 10px;
   width: 100%;
-  background-color: #5c374c;
+  background-color: #6e3a27;
 }
 
 .footer-heading {
