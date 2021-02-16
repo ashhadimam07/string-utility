@@ -62,7 +62,6 @@ main {
 #output-string {
   margin: 0 auto;
   border: 1px solid wheat;
-  border-radius: 8px;
   box-shadow: 0 1px 5px rgb(97, 97, 97);
   padding: 20px 20px;
   font-size: 16px;
