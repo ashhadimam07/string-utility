@@ -95,6 +95,26 @@ main {
   width: 10%;
 }
 
+.content {
+  margin: 0 auto;
+  align-items: center;
+  border: 1px solid wheat;
+  background-color: #c5866f;
+  border-radius: 8px;
+  box-shadow: 0 1px 5px rgb(97, 97, 97);
+  width: 65%;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.content h2 {
+  color: rgb(1, 54, 70);
+}
+
+.content ul {
+  padding-left: 20px;
+}
+
 .footer {
   position: absolute;
   left: 0;
@@ -118,6 +138,14 @@ main {
     flex-direction: column;
     height: 500px;
     width: 80%;
+  }
+
+  .content {
+    width: 80%;
+  }
+
+  .content h2 {
+    text-align: center;
   }
 
   #input-string,
