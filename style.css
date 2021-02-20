@@ -95,7 +95,7 @@ main {
 }
 
 ::placeholder {
-  color: #31231e;
+  color: rgb(1, 54, 70);
   font-size: 17px;
 }
 
