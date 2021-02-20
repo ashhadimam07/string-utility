@@ -27,7 +27,7 @@ wordcount.addEventListener('click', () => {
 });
 
 function execCopy() {
-    document.querySelector('#input-string').select();
+    document.querySelector('#output-string').select();
     document.execCommand('copy');
 }
 document.getElementById('copy').addEventListener('click', execCopy);
