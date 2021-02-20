@@ -125,7 +125,7 @@ main {
 #charcount,
 #wordcount,
 #copy {
-  padding: 12px;
+  padding: 4px;
   border: 1px solid wheat;
   background-color: #c5866f;
   border-radius: 8px;
@@ -134,6 +134,8 @@ main {
   color: rgb(1, 54, 70);
   margin: 8px;
   width: 10%;
+  height: 40px;
+  font-weight: 600;
 }
 
 .content {
@@ -214,7 +216,7 @@ main {
   #copy {
     padding: 6px;
     font-size: 14px;
-    width: 80%;
+    width: 100%;
   }
 
   nav .logo {
