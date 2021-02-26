@@ -127,11 +127,11 @@ main {
 #copy {
   padding: 4px;
   border: 1px solid wheat;
-  background-color: #c5866f;
+  background-color: #3b1c32;
   border-radius: 8px;
   box-shadow: 0 1px 5px rgb(97, 97, 97);
   font-size: 14px;
-  color: rgb(1, 54, 70);
+  color: wheat;
   margin: 8px;
   width: 10%;
   height: 40px;
